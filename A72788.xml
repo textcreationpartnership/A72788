@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Mayor. We charge and command you, that vpon S. Thomas day the Apostle next comming, you doe hold your wardmote and that you haue afore vs at our generall Court of Aldermen to bee holden in the Guildhal, the Munday next after the feast of the Epiphany next comming, ...</title>
+            <title>Acts &amp; Orders</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72788</idno>
+            <idno type="STC">STC 16731.7</idno>
+            <idno type="STC">ESTC S124270</idno>
+            <idno type="EEBO-CITATION">99898946</idno>
+            <idno type="PROQUEST">99898946</idno>
+            <idno type="VID">151045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Mayor. We charge and command you, that vpon S. Thomas day the Apostle next comming, you doe hold your wardmote and that you haue afore vs at our generall Court of Aldermen to bee holden in the Guildhal, the Munday next after the feast of the Epiphany next comming, ...</title>
+                  <title>Acts &amp; Orders</title>
+                  <author>City of London (England). Lord Mayor.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Young, printer to the Honourable Citie of London,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A charge for wardmotes--STC.</note>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Date of publication from STC.</note>
+                  <note>Steele notation: hold  which  2) furtherance.  3) pitie) of.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Administrative and political divisions --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:151045:1"/>
+            <head>
+               <note place="margin">To the Alder<g ref="char:EOLhyphen"/>men of the Ward.</note>By the Mayor.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ee charge and command you,<note place="margin">Wardmote.</note> that vpon S. Thomas day the Apoſtle next comming, you doe hold your Wardmote, and that you haue afore vs at our generall Court of Aldermen to bee holden in the Guildhal, the Munday next after the Feaſt of the Epiphany next comming, all the defaults that ſhall be preſented afore you by Inqueſt in the ſaid wardmote,<note place="margin">Inqueſt for a yeare.</note> and the ſaid Inqueſt ſhall haue full power and authoritie by one whole yeare to inquire and preſent all ſuch defaults as ſhall bee found within your ſaid Ward, as oftentimes as ſhall bee though to you expedient and needfull, which we will ſhall be once euery moneth at the leaſt.</p>
+            <p n="2">
+               <hi>2</hi> And if it happen any of your ſaid Inqueſt to die, or depart our of your ſaid Ward within the ſaid yeare, that then in place of him or them ſo dying or departing out of your ſaid ward,<note place="margin">Inqueſt dying.</note> you cauſe to be choſen one able perſon to in<g ref="char:EOLhyphen"/>quire and preſent with the other in manner and forme aboueſaid.</p>
+            <p n="3">
+               <hi>3</hi> And that at the ſaid generall Court,<note place="margin">Non-appea<g ref="char:EOLhyphen"/>rance.</note> you giue afore vs the names and ſurnames of all them of your ſaid Ward, that come not to your ſaid wardmote i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they be duely warned, ſo that due redreſſe and puniſhment of them may be had as the caſe ſhall require, according to the Law.</p>
+            <p n="4">
+               <hi>4</hi> And that you doe prouide, that at all times conuenient, couenable watch be kept: And that Lanthorns with light by nightertaile in old manner accuſtomed,<note place="margin">Watch, Light, Viſard.</note> be hanged forth: and that no man goe by nightertaile without light, nor with viſard, on the perill that belongeth thereto.</p>
+            <p n="5">
+               <hi>5</hi> And alſo that you doe cauſe to be choſen <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> men of the moſt ſufficient,<note place="margin">Common Councell.</note> honeſt, and diſcreet men of your ſaid ward, to be for your ſaid ward of the common Councel of this Citie for the yeare enſuing, according to the cuſtome in that behalfe yearely vſed. And alſo that you do cauſe the ſaid men, ſo to be choſen to be of the common Councel, to be ſworne before you, and in your preſence, according to the Oath for them vſed, and of old time accuſtomed: the tenor of which Oath hereafter enſueth.</p>
+            <p>
+               <q>Ye ſhall ſweare, that ye ſhall be true to our Soueraigne Lord the King that now is, and to his heires and ſuc<g ref="char:EOLhyphen"/>ceſſors, Kings of England, and readily ye ſhall come when ye be ſummoned to the common Councel of this Citie, but if ye be reaſonably excuſed: and good and true counſell ye ſhall giue in all things touching the Commonwealth of this Citie, after your wit and cunning: and that for fauour of any perſon ye ſhall maintaine no ſingular profite againſt the common profite of this Citie, and after that you be come to the common Councell, you ſhall not from thence depart till the common Councell be ended without reaſonable cauſe, or elſe by the Lord Maiors licenſe: And alſo any ſecret things that be ſpoken or ſaid in the common Councell which ought to be kept ſecret, in no wiſe you ſhall diſcloſe, as God helpe you.</q>
+            </p>
+            <p n="6">
+               <note place="margin">Conſtables, Scauenger, Bedle, Raker.</note> 
+               <hi>6</hi> And that alſo in the ſaid wardmote, you cauſe to be choſen certaine other honeſt perſons to be Conſtables, and Scauengers, and a common Bedle, and a Raker to make cleane the ſtreets and lanes of all your ſaid Ward, accor<g ref="char:EOLhyphen"/>ding to the cuſtome yearely vſed in that behalfe; which Conſtables haue and ſhall haue full power and authoritie to diſtraine for the ſallary and quarterage of the ſaid Bedle and Raker, as oftentimes as it ſhall be behinde vnpaid.</p>
+            <p n="7">
+               <hi>7</hi> Alſo that you keep a Roll of the names, ſurnames, dwelling places, profeſſions and trades of all perſons dwel<g ref="char:EOLhyphen"/>ling within your ward,<note place="margin">Roll of names.</note> and within what Conſtables precinct they dwell, wherein the place is to be ſpecially noted by ſtreet, lane, alley or ſigne.</p>
+            <p n="8">
+               <hi>8</hi> Alſo that you cauſe euery Conſtable from time to time,<note place="margin">Conſtable.</note> to certifie vnto you the name, ſurname, dwelling place, profeſſion and trade of euery perſon, who ſhall newly come to dwell within this precinct, whereby you may make and keepe your roll perfect.<note place="margin">Roll.</note> And that you cauſe euery Conſtable for his precinct to that purpoſe, to make and keepe a perfect roll in like manner.</p>
+            <p n="9">
+               <note place="margin">Inholder. Lodger. Soiourner.</note> 
+               <hi>9</hi> Alſo that you giue ſpecial charge that euery Inholder and other perſon within your ward, who ſhall receiue any perſon to lodge or ſoiourne in his houſe aboue two dayes, ſhall before the third day after his comming thither, giue knowledge to the Conſtable of the precinct where he ſhall be to receiued, of the name, ſurname, dwelling place, profeſſion and trade of life, or place of ſeruice of ſuch perſon, and for what cauſe he ſhall come to recide there. And that the ſaid Conſtable giue preſent notice thereof to you:<note place="margin">Suſpect per<g ref="char:EOLhyphen"/>ſons.</note> and that the ſaid Inholder lodge no ſuſpected perſon, or men or women of euill name.</p>
+            <p n="10">
+               <hi>10</hi> Alſo that you cauſe euery Conſtable within his precinct,<note place="margin">Search.</note> once euery moueth at the fartheſt, and oftner if need require, to make diligent ſearch and inquiry, what perſons be newly come into his precinct to dwell, ſoiourne, or lodge.<note place="margin">New commers.</note> And that you giue ſpeciall charge, that no Inholder or perſon ſhall reſiſt or deny any Conſtable, in making ſuch ſearch or inquirie, but ſhall doe his beſt endeauour to ayde and aſſiſt him therein.</p>
+            <p n="11">
+               <hi>11</hi> And for that of late there is more reſort to the Citie of perſons euill affected in religion, and otherwiſe than in former times hath bin:<note place="margin">Franke pledge.</note> you ſhall diligently inquire if any man be receiued to dwell or abide within your ward, that is not put vnder franke pledge as hee ought to be by the cuſtome of the Citie, and whether any perſon hath continued in the ſaid ward by the ſpace of one yeare, being aboue the age of xii. yeares, and not ſworne to be faithfull and loyall to the Kings Maieſly, in ſuch ſort as by the law and cuſtome of this Citie he ought to be.</p>
+            <pb facs="tcp:151045:2"/>
+            <p n="12">
+               <hi>12</hi> To all theſe purpoſes the Bedle of euery ward ſhall imploy his diligence,<note place="margin">Bedle.</note> and giue his beſt furtherance.</p>
+            <p n="13">
+               <hi>13</hi> Alſo that you haue ſpeciall regard that from time to time,<note place="margin">Fire.</note> there be conuenient prouiſion for Hookes, Lad<g ref="char:EOLhyphen"/>ders and Buckets, in meet places within the ſeuerall Pariſbes of your ward, for auoyding the perill of fire.</p>
+            <p n="14">
+               <hi>14</hi> Alſo that the ſtreets and lanes of this Citie be from time to time kept cleane before euery Church,<note place="margin">Street<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</note> houſe, ſhop, warehouſe, doore, dead wall, and in all other common paſſages and ſtreets of the ſaid ward.</p>
+            <p n="15">
+               <note place="margin">Huckſters of Ale &amp; Beere.</note> 
+               <hi>15</hi> And where by diuers Acts of common Councell, afore time made and eſtabliſhed for the common weale of this Citie, among other things it is ordained and enacted, as hereafter enſueth.</p>
+            <p>Alſo it is ordained and enacted, That from henceforth, no huckſter of Ale or Beere be within any ward of the Citie of London but honeſt perſons, and of good name and fame, and ſo taken and admitted by the Aldermen of the ward for the time being, and that the ſame huckſters do finde ſufficient ſuretie afore the Mayor and Aldermen for the time being, to be of good guiding and rule. And that the ſame huckers ſhall keepe no bawdry nor ſuffer no letchery, dice-playing, carding, or any other vnlawfull games to be done, exerciſed, or vſed within their houſes, and to ſhut in their doores at nine of the clocke in the night, from Michaelmas to Eaſter, and from Eaſter to Michaelmas at ten of the clocke in the night, and after that houre ſell none Ale or Beere. And if any huckſter of Beere or Ale, after this Act publiſhed and proclaimed, ſell any Ale or Beere within any ward of the Citie of London, and be not admitted by the Alderman of the ſame ward ſo to doe, or finde not ſufficient ſurety, as it is aboue rehearſed, the ſame huckſter to haue impriſonment, and make fine and ranſome for his contempt, after the diſcretion of the Mayor and Aldermen. And alſo that the ſaid huckſters ſuffer no manner of common eating and drinking within their cellars or vaults, con<g ref="char:EOLhyphen"/>trary to the ordinance thereof ordained and prouided, as in the ſaid Act more plainly appeareth at large. We charge you that you put the ſame in due execution accordingly.</p>
+            <p n="16">
+               <hi>16</hi> And alſo that ye ſee all Tiplers and other ſellers of Ale or Beere,<note place="margin">Meaſures ſealed.</note> as well of priuie Oſteries, as Brewers and Inholders within your ward, not ſelling by lawfull meaſures ſealed and marked with the letter C. crowned, accor<g ref="char:EOLhyphen"/>ding as in that behalfe it is ordained and purueyed, be preſented, and their names in your ſaid Indentures be expreſ<g ref="char:EOLhyphen"/>ſed, with their defaults, ſo that the Chamberlaine may be lawfully anſwered of their amercements.</p>
+            <p n="17">
+               <hi>17</hi> And alſo that you ſuffer no ſtranger borne out of the Realme to be of the common Councell,<note place="margin">Stranger born.</note> nor to exerciſe or vſe any other office within this Citie, nor receiue or accept any perſon into your watch, priuie, or open, but Engliſh<g ref="char:EOLhyphen"/>men borne. And if any ſtranger borne out of this Realme, made denizen by the Kings Letters Patents, or any o<g ref="char:EOLhyphen"/>ther after his courſe and lot be appointed to any watch, that then ye command and compell him or them to finde in his ſtead and place, one Engliſhman to ſupply the ſame.</p>
+            <p n="18">
+               <hi>18</hi> And alſo that you cauſe an abſtract of the Aſſiſe appointed by Act of Parliament for billets and other fire<g ref="char:EOLhyphen"/>wood to be faire written in Parchment, and to be fixed or hanged vp in a Table in ſome fit and conuenient place in euery pariſh within your ward, where the common people may beſt ſee the ſame.</p>
+            <p n="19">
+               <hi>19</hi> And furthermore,<note place="margin">Streets.</note> we charge and command you, That you cauſe ſuch prouiſion to be had in your ſaid ward, that all the ſtreets and lanes within the ſame ward,<note place="margin">Paine. 40.2.</note> be from time to time cleanſed and cleerely voyded of ordure, dung, myre, rubbiſh, and other filthy things whatſoeuer be to the annoyance of the Kings Maieſties ſubiects.</p>
+            <p n="20">
+               <hi>20</hi> And alſo that at all times as you ſhall thinke neceſſary, you do cauſe ſearch to be made within your ſaid ward, for all vagrant beggers,<note place="margin">Vagrants.</note> ſuſpicious and idle people, and ſuch as cannot ſhew how to liue, and ſuch as ſhall be found within your ſaid ward, that you cauſe to be puniſhed and dealt with according to the law and the ſtatute in ſuch caſe ordained and prouided.</p>
+            <p n="21">
+               <hi>21</hi> And alſo we will and charge you the ſaid Alderman,<note place="margin">Iury men.</note> that your ſelfe certifie and preſent before vs at the ſaid generall Court to be holden the foreſaid Munday next after the Feaſt of the Epiphany all the names and ſurnames truly written of ſuch perſons within your ſaid ward, as be able to paſſe in a Grand-Iury by themſelues: And alſo all the names and ſurnames truly written of ſuch perſons, being and dwelling within your ſaid ward, as be able to paſſe in a Petty-Iurie, and not able to paſſe in a Grand-Iury, by themſelues: that is to ſay, euery Grand-Iury man to bee worth in Goods an hundred Markes, and euery petty Iury man fortie Markes, according to an Act in that caſe ordained and prouided; And the ſame you ſhall indorſe on the backſide of your Indenture.</p>
+            <p n="22">
+               <hi>22</hi> Item,<note place="margin">Harlots.</note> for diuers reaſonable and vrgent conſiderations vs eſpecially mouing, we ſtraitly charge and com<g ref="char:EOLhyphen"/>mand you on the King our Soueraigne Lords behalfe, that you diligently prouide and foreſee, that no manner of perſon or perſons within your ſaid ward, of what condition or degree ſoeuer he or they be of, keeping any Tauerne or Alehouſe, Ale-cellar, or any other victualling houſe or place of common reſort to eat and drinke in, within the ſame ward, permit or ſuffer at any time hereafter any common woman of their bodies, or harlots to reſort and come into their ſaid houſe or other the places aforeſaid, to eate or drinke, or otherwiſe to be conuerſant or abide, or thither to haunt or frequent vpon paine of impriſonment, as well of the occupier and keeper of euery ſuch houſe or houſes, and all other the places afore remembred, as of the common woman or harlots.</p>
+            <p n="23">
+               <hi>23</hi> Alſo that you doe giue in charge to the wardmote enqueſt of your ward,<note place="margin">Articles.</note> all the articles deliuered to you here<g ref="char:EOLhyphen"/>with.</p>
+            <div type="part">
+               <head>An Act for the Reformation of diuers abuſes, vſed in the <hi>Wardmote Enqueſts.</hi>
+               </head>
+               <p>
+                  <note place="margin">Commons, Dinners, Ban<g ref="char:EOLhyphen"/>quetting.</note>
+                  <seg rend="decorInit">I</seg>Tem, where the Wargmote Enqueſts within the ſeuerall Wards of this Citie, for the maintenance of honeſty, vertue, and good liuing, and for the aboliſhment, exiling and ſuppreſſing of all kinde of vice, euill rule, and iniquity, according to the ancient landable Lawes and Cuſtomes of the ſaid Citie, are yearely ſeuerally charged and ſworne, vpon the day of Saint Thomas the Apoſtle, before the Aldermen of the ſaid wards, chiefely and principally to the end and intend, that they with all diligence ſhould truly and duely inquire and preſent all ſuch enormities, nuſances, miſorder; and offences, as are, or at any time within the ſpace of one whole yeare then next enſuing, ſhall be ſeuerally vſed, committed or done within the ſaid Wards, and haue day yearely to make their ſaid preſentments, vntill the Munday next after the Feaſt of the Epiphany. The ſaid En<g ref="char:EOLhyphen"/>queſts
+<pb facs="tcp:151045:3" rendition="simple:additions"/>heretofore, little or nothing at all regarding (as it is very manifeſt, and not vnknowne, the more is the pitie) their ſaid Oathes or yet the great commodities, vtility, quietneſſe, honour, and worſhip that might or ſhould grow and enſue to the ſaid City and inhabitants of the ſame, through their good, induſtrious, and indifferent proceedings, for the aduancement of vertue, and repreſſing of vices, haue drawne it in a manner into a very ordinary courſe and common cuſtome, to conſume and ſpend a great part of their ſaid time, that they haue yearly giuen vnto them when they receiue their ſaid charge: partly in ſetting vp among themſelues a certaine commons, and making &amp; keeping many coſtly and ſumptuous dinners, ſuppers, and banquets, inuiting and calling to the ſame at ſundry times in a manner, all the inhabitants of the ſayd ſeuerall wards, to the no little charges of the ſame inhabitants: and partly in paſſing &amp; occupying much part of the ſame time, in playing at dice, tables, cards, and ſuch other vnlawfull games both to the great coſts, chargrs, and expences of the ſaid Enqueſts (whereof the greater part are moſt commonly but poore men) and alſo to the very lewd, pernicious, and euil example of all ſuch as haue any acceſſe or recourſe vn<g ref="char:EOLhyphen"/>to the ſame Enqueſts. And where alſo the ſaid Enqueſts haue of late vſurped to diſpence with ſuch perſons, as they by their ſearch and otherwiſe haue founden to offend and tranſgreſſe the Lawes, in vſing and occupying of vnlaw<g ref="char:EOLhyphen"/>full Weights and Meaſures, taking of the ſaid Offendors certaine Fines, which Fines (as it is ſaid) the ſaid En<g ref="char:EOLhyphen"/>queſts haue commonly vſed to imploy towards the maintenance of their ſaid Feaſting &amp; Banquetting, directly a<g ref="char:EOLhyphen"/>gainſt the due order of our Soueraigne Lord the Kings Lawes, &amp; the publike wealth of all his Highneſſe Sub<g ref="char:EOLhyphen"/>iects within the ſaid Citie, and much to the reproach and diſhonour of the ſame Citie.</p>
+               <p>For remedy and reformation thereof, be it ordained, enacted, and eſtabliſhed by the Lord Mayor, Aldermen, and Commons in this preſent common Councell aſſembled, and by authority of the ſame: That all &amp; euery the ward<g ref="char:EOLhyphen"/>mote Enqueſts of the ſaid Citie, from henceforth to be yearly charged and ſworne within the ſaid ſeuerall Wards, at the time afore rehearſed, ſhall at all times and places meet &amp; conuenient for the due execution of their ſaid charge, meet and aſſemble themſelues together, and that they and euery of them after their ſaid meetings, inquiſition, and treating of their ſaid neceſſary matters, ſhall goe home to their owne ſeuerall houſes to Breakfaſt, Dinner, &amp; Sup<g ref="char:EOLhyphen"/>per, during all the ſaid accuſtomed time of their Charge and Seſſion aboueſaid: And that none of the ſaid Enqueſts ſhall from henceforth forward, ſet vp any manner of Commons, or keep or maintaine any manner of dinners, ſup<g ref="char:EOLhyphen"/>pers, or banquets among themſelues or vſe at their ſaid Aſſemblies and Seſſions, any of the games aboue menti<g ref="char:EOLhyphen"/>oned, or any other whatſoeuer vnlawful games or playes at any time, before the giuing vp of the ſaid preſentments, at the time aboue remembred:<note place="margin">Fines.</note> or ſhall take or receiue any manner of Fine or Fines, for the concealement and diſ<g ref="char:EOLhyphen"/>charging of any of the offences afore recited: but truely preſent the ſame offences, and euery of them, according to their Oathes, vpon paine of impriſonment by the diſcretion of the Lord Mayor and Aldermen of the ſaid Citie for the time being.</p>
+               <p>Prouided alway,<note place="margin">Fire and Can<g ref="char:EOLhyphen"/>dle, &amp;c.</note> and be it enacted by the authority aforeſaid, That it ſhalbe lawfull for all and euery of the ſaid Enqueſts, to take and receiue towards the charges of their fire and candles, and other neceſſaries during the time of their ſaid Seſſion, all and euery ſuch ſummes of money, as any honeſt perſon or perſons of their free will &amp; bene<g ref="char:EOLhyphen"/>uolent mind, will giue or offer vnto them. And when they haue made their ſaid preſentments, to goe and aſſemble themſelues together for their recreation and ſolace,<note place="margin">Recreation.</note> where they ſhall think it good and there not only to beſtow and ſpend the twenty ſhillings, which euery Alderman within his Ward, according to a certain odrer lately taken, ſhall yearely giue vnto them at the time of the deliuery of the ſaid preſentments, towards their ſaid charges in this be<g ref="char:EOLhyphen"/>halfe: but alſo the reſidue of the ſaid mony receiued &amp; gathered, as it is aforeſaid, of the beneuolence of their ſaid lo<g ref="char:EOLhyphen"/>uing friends, if any ſuch reſidue ſhall fortune to remaine: Any clauſe or Article in this peeſent Act contained to the contrary notwithſtanding.</p>
+               <p>Not failing hereof, as ye tender the common-weale of this City, and aduancement of good iuſtice, and as ye will anſwer for the contrary at your vttermoſt perill.</p>
+               <closer>
+                  <dateline>Dated at the Guildhall vnder the Seale Office of Maioralty of the ſaid City, <date>the twelfth day of December, the <gap reason="blank" extent="1 span">
+                           <desc>〈1 span left blank〉</desc>
+                        </gap> yeare of the Reigne of our Soueraigne Lord Charles, by the grace of God King of England, Scotland, France, and Ireland, Defender of the Faith, &amp;c.</date>
+                  </dateline>
+                  <lb/> God ſaue the King.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed by Robert Young, Printer to the Honourable Citie of London.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
